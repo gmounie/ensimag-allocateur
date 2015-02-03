@@ -137,7 +137,7 @@ TEST_F(BaseMemTest, petitetaille) {
   multi=2;
 #endif
 #ifdef WBUDDY
-  multi=3;
+  multi=2;
 #endif
 
 
